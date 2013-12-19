@@ -33,6 +33,6 @@ for further analysis. It is a vast improvement in
 
 References
 
-[isl]: http://insilicolab.cyfronet.pl/
+[isl]: http://insilicolab.cyfronet.pl/ "http://insilicolab.cyfronet.pl/"
 [piernik]: http://piernik.astri.umk.pl
 [yt]: http://yt-project.org/
