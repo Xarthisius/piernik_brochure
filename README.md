@@ -29,6 +29,7 @@ visualization of the results using the yt package[4]. Additionally the
 simulation results are stored as binary HDF5 files in LFC Catalogue, available
 for further analysis. It is a vast improvement in 
 
+![Snippet from InSilicoLab for Astrophysics](https://github.com/Xarthisius/piernik_brochure/raw/master/isl.png)
 
 References
 
